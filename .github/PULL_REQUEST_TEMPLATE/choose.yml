@@ -1,0 +1,7 @@
+- name: 🐛 Bug Fix
+  description: Use this template for fixing a bug
+  filename: pull_request_template2.md
+
+- name: 🚀 Feature Request
+  description: Use this for new features
+  filename: pull_request_template.md
